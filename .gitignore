@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Files generated when running the notebooks
+notebooks/*.csv
+outputs/
