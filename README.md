@@ -8,7 +8,7 @@ Each notebook is a self-contained workflow: data loading and cleaning, explorato
 
 ## Dataset
 
-A synthetic real estate dataset: **2,840 listings, 28 features** (neighbourhood, property type, living area, rooms, build and renovation year, garage, distance to centre, crime rate, school rating, sale price, and others). Because the data is synthetic, the findings illustrate the methods and should not be read as statements about a real market.
+A synthetic real estate dataset: **2,840 listings, 28 features** (neighbourhood, property type, living area, rooms, build and renovation year, garage, distance to centre, crime rate, school rating, sale price, and others). The data was generated with the help of an AI assistant (Claude) for educational purposes, so the findings illustrate the methods and should not be read as statements about a real market.
 
 ## Notebooks
 
